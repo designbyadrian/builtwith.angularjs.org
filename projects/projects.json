@@ -14,6 +14,21 @@
       ]
     },
     {
+      "name": "SpendToday - save tomorrow",
+      "thumb": "spendtoday/thumb.png",
+      "desc": "Spending tracker - not savings tracker! Quickly decides daily allowance and weekly forecasts.",
+      "url": "https://itunes.apple.com/gb/app/spendtoday/id648653108?mt=8",
+      "info": "http://spendtodayapp.com",
+      "submitter": "designbyadrian",
+      "submissionDate": "2013-06-08",
+      "tags": [
+        "Production",
+        "Productivity"
+        "Cordova","PhoneGap","Local Storage","Web SQL","Persistence JS",
+        "No jQuery"
+      ]
+    },
+    {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
